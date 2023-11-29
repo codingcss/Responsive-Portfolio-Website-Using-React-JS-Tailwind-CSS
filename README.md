@@ -2,7 +2,7 @@
 
 ## [Watch it on youtube]([(https://youtu.be/ymPKi8NuOCc)]
 
-#### Amazing Text Effect With CSS
+#### Responsive Portfolio Website Using React JS & Tailwind CSS
 
 
 💙 Join the channel to see more videos like this. [LearnWithDaniel](https://www.youtube.com/@learnwithdanial417)
